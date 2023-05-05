@@ -15,12 +15,12 @@ To run this project, make sure you have Node.js and NPM installed.
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/express-authentication-api.git
+git clone https://github.com/sauravhathi/nodejs-authentication-api.git
 ```
 
 2. Change directory to the project folder:
 ```
-cd express-authentication-api
+cd nodejs-authentication-api
 ```
 
 3. Install the dependencies:
@@ -134,7 +134,7 @@ The API can be tested using Postman or VS Code(Thunder Client) or any other API 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/sauravhathi/nodejs-authentication-api/blob/master/LICENSE)
 
 ## Author
 
