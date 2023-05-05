@@ -62,7 +62,7 @@ An object named users is created to store user data. The keys of the object are 
 const users = {};
 ```
 
-## Signup Endpoint
+### Signup Endpoint
 The `/signup` endpoint is used to create a new user account. The endpoint expects a JSON object in the request body with the following fields:
 
 - username: the desired username for the new account.
